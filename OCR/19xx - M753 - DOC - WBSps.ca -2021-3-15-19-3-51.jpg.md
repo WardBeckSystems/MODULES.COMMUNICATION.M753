@@ -1,5 +1,5 @@
 # 19xx - M753 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -184,7 +184,7 @@ R44 l80
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M753/19xx - M753 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
+ "file": "Modules/COMMUNICATION/M753/MANUALS/19xx - M753 - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
  "sha256": "dcb40616c1f6323bab49dfbc2e0145c9f1858eb637226c312e77d495037213b0",
  "kind": "doc",
  "models": [

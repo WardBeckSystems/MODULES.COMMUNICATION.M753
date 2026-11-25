@@ -1,5 +1,5 @@
 # 19xx - M753 - DOC - WHEN COBE DOES NOT ACEEC.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -182,7 +182,7 @@ Jol
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M753/19xx - M753 - DOC - WHEN COBE DOES NOT ACEEC.jpg",
+ "file": "Modules/COMMUNICATION/M753/MANUALS/19xx - M753 - DOC - WHEN COBE DOES NOT ACEEC.jpg",
  "sha256": "01db69b823e2f8f9d54bbfb37b953ad5eaac391ac871c86f3784d5f0a105c46c",
  "kind": "doc",
  "models": [
