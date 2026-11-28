@@ -1,6 +1,6 @@
 # M753 Memory Latch Lock Up Control · Communication
 
-Ward-Beck Systems M753, 1971|4. Wiki page: [M753 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M753.html)
+Ward-Beck Systems M753, 1971|4. Wiki page: [M753 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M753-Memory-Latch-Lock-Up-Control/)
 
 | Folder | What is in it | Files |
 |---|---|---|

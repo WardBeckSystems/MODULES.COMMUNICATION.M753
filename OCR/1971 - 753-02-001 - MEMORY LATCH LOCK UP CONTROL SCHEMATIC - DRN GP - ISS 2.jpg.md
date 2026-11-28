@@ -1,5 +1,5 @@
 # 1971 - 753-02-001 - MEMORY LATCH LOCK UP CONTROL SCHEMATIC - DRN GP - ISS 2.jpg
-Wiki page: [M753](../../../../PAGES/M753.md)
+Wiki page: [M753](../)
 
 
 - **Year:** 1971 (title block date)
